@@ -1,0 +1,27 @@
+body{
+    background:#dbe3f2;
+    text-align: center;
+    margin:50px;
+}
+input{
+    padding:5px;
+    font-style:italic;
+    width:500px;
+    box-sizing:border-box;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.items{
+    background: #385590;
+    margin-bottom:10px;
+    width:500px;
+    color:#ffffff;
+    padding:5px;
+    box-sizing:border-box;
+    border-radius:5px;
+    margin:5px auto;
+    transition: all 2s linear;
+    opacity:1
+   
+}
+
